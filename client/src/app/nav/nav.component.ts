@@ -29,12 +29,11 @@ export class NavComponent implements OnInit {
       next: _ => {
         this.router.navigateByUrl('/members')
       },
-      error: error => this.toastr.error(error.error)
-    })
+    });
   }
 
   logout() {
     this.accountService.logout();
-    this.router.navigateByUrl('/')
+    this.router.navigateByUrl('/');
   }
 }
