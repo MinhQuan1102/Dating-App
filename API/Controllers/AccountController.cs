@@ -28,11 +28,6 @@ namespace API.Controllers
             if (await UserExists(registerDTO.Username)) return BadRequest("Username is taken");
 
             var user = _mapper.Map<AppUser>(registerDTO);
-            using var hmac = new HMACSHA512();
-
-            user.UserName = registerDTO.Username.ToLower();
-            user.PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDTO.Password));
-            user.PasswordSalt = hmac.Key;
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
@@ -55,13 +50,6 @@ namespace API.Controllers
 
             if (user == null) return Unauthorized("Invalid username");
 
-            using var hmac = new HMACSHA512(user.PasswordSalt);
-            var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginDTO.Password));
-
-            for (int i = 0; i < computedHash.Length; i++)
-            {
-                if (computedHash[i] != user.PasswordHash[i]) return Unauthorized("Invalid password");
-            }
             return new UserDTO
             {
                 Username = user.UserName,
