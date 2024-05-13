@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "Q:\\VSCode Project\\DatingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\data\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\data\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\signalr\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\signalr\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\data\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\data\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\helper\\loguseractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\helper\\loguseractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\signalr\\presencehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\signalr\\presencehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\signalr\\presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\signalr\\presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|q:\\vscode project\\datingapp\\api\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C428CB-C559-4B1C-800D-1F2866DB4038}|API\\API.csproj|solutionrelative:api\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MessageRepository.cs",
-              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Data\\MessageRepository.cs",
-              "RelativeDocumentMoniker": "API\\Data\\MessageRepository.cs",
-              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Data\\MessageRepository.cs",
-              "RelativeToolTip": "API\\Data\\MessageRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvycAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:31:59.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMessageRepository.cs",
-              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IMessageRepository.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\IMessageRepository.cs",
-              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IMessageRepository.cs",
-              "RelativeToolTip": "API\\Interfaces\\IMessageRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:31:32.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PresenceHub.cs",
-              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\PresenceHub.cs",
-              "RelativeDocumentMoniker": "API\\SignalR\\PresenceHub.cs",
-              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\PresenceHub.cs",
-              "RelativeToolTip": "API\\SignalR\\PresenceHub.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:50:46.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MessageHub.cs",
               "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\MessageHub.cs",
               "RelativeDocumentMoniker": "API\\SignalR\\MessageHub.cs",
               "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\MessageHub.cs",
               "RelativeToolTip": "API\\SignalR\\MessageHub.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADwvyMAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:27:17.502Z",
+              "WhenOpened": "2024-05-08T14:16:49.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogUserActivity.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Helper\\LogUserActivity.cs",
+              "RelativeDocumentMoniker": "API\\Helper\\LogUserActivity.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Helper\\LogUserActivity.cs",
+              "RelativeToolTip": "API\\Helper\\LogUserActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:16:02.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PresenceTracker.cs",
-              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\PresenceTracker.cs",
-              "RelativeDocumentMoniker": "API\\SignalR\\PresenceTracker.cs",
-              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\SignalR\\PresenceTracker.cs",
-              "RelativeToolTip": "API\\SignalR\\PresenceTracker.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAswBkAAAAJAAAA",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAiwJIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:25:06.449Z"
+              "WhenOpened": "2024-05-08T14:14:07.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\MessagesController.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "API\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:11:22.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LikesController.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\LikesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LikesController.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Controllers\\LikesController.cs",
+              "RelativeToolTip": "API\\Controllers\\LikesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:09:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Data\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "API\\Data\\MessageRepository.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Data\\MessageRepository.cs",
+              "RelativeToolTip": "API\\Data\\MessageRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:08:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IMessageRepository.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IMessageRepository.cs",
+              "RelativeToolTip": "API\\Interfaces\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:08:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "API\\Data\\UserRepository.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Data\\UserRepository.cs",
+              "RelativeToolTip": "API\\Data\\UserRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:08:15.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "Q:\\VSCode Project\\DatingApp\\API\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "API\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:08:09.499Z",
+              "EditorCaption": ""
             }
           ]
         }
